@@ -433,7 +433,3 @@ https://github.com/MohamedWanes/spring-petclinic
 Docker Hub:
 
 https://hub.docker.com/r/mohamedwanes126/spring-petclinic
-
-GitHub Actions:
-
-https://github.com/MohamedWanes/spring-petclinic/actions
